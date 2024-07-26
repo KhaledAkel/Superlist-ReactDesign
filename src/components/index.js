@@ -1,0 +1,11 @@
+export {default as Navbar} from './Navbar'
+export {default as Hero} from './Hero.jsx'
+export {default as Preview} from './Preview'
+export {default as Rank} from './Rank'
+export {default as Note} from './Note'
+export {default as Frame} from './Frame.jsx'
+export {default as TrailerVideo} from './TrailerVideo.jsx'
+export {default as InterElement} from './InterElement.jsx'
+export {default as BigButton} from './BigButton.jsx'
+export {default as Footer} from './Footer.jsx'
+
