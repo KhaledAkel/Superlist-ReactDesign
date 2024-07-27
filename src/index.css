@@ -33,9 +33,8 @@ body {
 }
 
 @keyframes slideIn {
-  to {
+  from {
     width: 94%;
-    height: fit-content;
   }
 }
 

@@ -3,7 +3,7 @@ import { Note, Frame } from '../components'
 
 const NotesSet = () => {
   return (
-    <div className='notes mx-auto w-full max-md:w-[80%] flex flex-col items-center max-md:gap-y-11 snap-y duration-300 max-mid:pb-32 '>
+    <div className='notes mx-auto w-[80%] flex flex-col items-center max-md:gap-y-11 snap-y duration-300 max-mid:pb-32 '>
         <Note 
             leftColor="whiteGray"
             rightColor="lightPurple"
